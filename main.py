@@ -1,6 +1,6 @@
 import os
 
-ENTRY = "I'm out of office until Monday \u2014 my laptop caught fire, my phone is at 2%, and this auto-reply is being sent from the smoke alarm."
+ENTRY = "I'm out of office until the fire's out \u2014 my laptop caught fire, my phone is at 2%, and this auto-reply is being sent from the smoke alarm."
 
 def main():
     os.makedirs("/output", exist_ok=True)
